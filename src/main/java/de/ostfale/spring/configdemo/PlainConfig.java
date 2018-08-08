@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Bean;
  */
 public class PlainConfig {
 
-    private static class PlainPojo {
+    public static class PlainPojo {
     }
 
     @Bean
